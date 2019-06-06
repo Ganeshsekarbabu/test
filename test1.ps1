@@ -1,1 +1,1 @@
-Write-Output "Hi"
+Write-Output "Hi-ganes new"
